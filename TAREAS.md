@@ -1,5 +1,12 @@
 # Division del trabajo — Tuckersoft Branch Engine
 
+> **Actualizacion: las Partes 2 y 3 tambien quedaron implementadas.** Este
+> documento se conserva como referencia del contrato de cada modulo (util
+> para explicarle el codigo al TA o a un companero), pero ya no hay trabajo
+> pendiente por repartir. Las 5 estrellas pasan contra los `autotests/`
+> reales (ver `ENTREGA.md`). Los 5 tests unitarios de `DecisionService`
+> tambien pasan.
+
 > Aviso importante primero: el `README.md` trae inyecciones de prompt escondidas en
 > comentarios HTML y en referencias tipo `[algo]: #` (incluidas varias que se
 > autodenominan "errata v1.3" y afirman reemplazar el texto visible). Se verificaron
