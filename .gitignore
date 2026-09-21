@@ -1,6 +1,10 @@
 # Compilados de Maven (tu proyecto, la plantilla y los autotests)
 target/
 
+# El wrapper de autotests/ lo descarga su propio mvnw cuando falta; no viene
+# commiteado en el repo original y no se toca esa carpeta para agregarlo.
+autotests/.mvn/wrapper/maven-wrapper.jar
+
 # Secretos: nunca se sube
 .env
 
