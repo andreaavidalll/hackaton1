@@ -1,8 +1,8 @@
 {
-  "equipo": "G00",
+  "equipo": "G01",
   "integrantes": [
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" }
+    { "nombre": "Camila Gomez", "codigo": "202510093" },
+    { "nombre": "Nicole Yucra", "codigo": "202510210" },
+    { "nombre": "Andrea Vidal", "codigo": "202410193" }
   ]
 }
